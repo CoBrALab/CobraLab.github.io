@@ -1,5 +1,5 @@
 ---
-title: Gulebru Ayranci
+title: Gulebru Ayranci, Ph.D.
 layout: pagenonav
 ---
 ![Gulebry Ayranci]({{ site.baseurl }}/images/ayranci.gulebru.jpg)
