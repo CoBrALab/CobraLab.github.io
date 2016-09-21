@@ -8,5 +8,3 @@ curl -G http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi --data "db=pubm
 
 bib2xhtml.pl -u -r -c -s empty -n Chakravarty citations.bib ../publications/index.html
 rm citations.bib
-
-dos2unix ../publications/index.html
