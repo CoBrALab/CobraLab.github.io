@@ -12,7 +12,6 @@ layout: page
 </ul>
 
 <h1>Post-Doctoral Researchers</h1>
-<h2>Current</h2>
 <ul>
   {% for doc in site.postdocs %}
     <li>
@@ -21,17 +20,7 @@ layout: page
   {% endfor %}
 </ul>
 
-<h2>Alumni</h2>
-<ul>
-  {% for doc in site.postdocspast %}
-    <li>
-      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
 <h1>Staff</h1>
-<h2>Current</h2>
 <ul>
   {% for doc in site.staff %}
     <li>
@@ -40,29 +29,18 @@ layout: page
   {% endfor %}
 </ul>
 
-<h2>Alumni</h2>
-<ul>
-  {% for doc in site.staffpast %}
-    <li>
-      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-
 <h1>Graduate Students</h1>
-<h2>Current</h2>
+<h2>Ph.D. Candidates</h2>
 <ul>
-  {% for doc in site.grad %}
+  {% for doc in site.gradphd %}
     <li>
       <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     </li>
   {% endfor %}
 </ul>
-
-<h2>Alumni</h2>
+<h2>Master's Candidates</h2>
 <ul>
-  {% for doc in site.gradpast %}
+  {% for doc in site.gradmasters %}
     <li>
       <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     </li>
@@ -70,7 +48,6 @@ layout: page
 </ul>
 
 <h1>Undergraduate Students</h1>
-<h2>Current</h2>
 <ul>
   {% for doc in site.undergrad %}
     <li>
@@ -79,7 +56,36 @@ layout: page
   {% endfor %}
 </ul>
 
-<h2>Alumni</h2>
+
+<h1>Alumni</h1>
+<h2>Post-Doctoral Researchers</h2>
+<ul>
+  {% for doc in site.postdocspast %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Staff</h2>
+<ul>
+  {% for doc in site.staffpast %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Graduate Students</h2>
+<ul>
+  {% for doc in site.gradpast %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Undergraduate Students</h2>
 <ul>
   {% for doc in site.undergradpast %}
     <li>
