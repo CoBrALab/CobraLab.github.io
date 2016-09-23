@@ -27,7 +27,7 @@ collections:
       output: true
   gradphd:
       output: true
-  gradmasters
+  gradmasters:
       output: true
   gradpast:
       output: true
