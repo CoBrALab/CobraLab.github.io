@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations to Rob on graduating from the IPN program with a M.Sc. in Neuroscience
+title: Congratulations to Rob on graduating from the IPN program with a M.Sc. in Neuroscience!
 ---
 
 The CoBrA lab would like to congratulate Rob on graduating with a degree of M.Sc. in Neuroscience from the Integrated Program in Neuroscience with a 4.0 average GPA from McGill University!
