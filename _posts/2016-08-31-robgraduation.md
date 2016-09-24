@@ -9,6 +9,6 @@ In addition to completing his master's thesis entitled "The human memory circuit
 
 Outside of the lab, Rob was recruited as a member of McGill University Pharmacology and Therapeutics Cyclic Review Board, a member of 3 Minute Thesis Board, Brain Reach Program, Post Graduate Student Society (PGSS), Neuroscience Graduate Student Mentorship Program, and Basic Business Skills for Scientists.
 
-He is currently looking for opportunities in Ontario's Biotechnology and Pharmaceutical Industry sectors while also simultaneously working on building his own Contract Research Organization for analysis of structural neuroimaging data called, [Cerebrometrix](www.cerebrometrix.com).
+He is currently looking for opportunities in Ontario's Biotechnology and Pharmaceutical Industry sectors while also simultaneously working on building his own Contract Research Organization for analysis of structural neuroimaging data called, [Cerebrometrix](http://www.cerebrometrix.com).
 
 The CoBrA lab would like to wish Rob the best of luck in his future endeavours!
