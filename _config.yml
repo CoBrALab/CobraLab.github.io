@@ -25,7 +25,9 @@ collections:
       output: true
   staffpast:
       output: true
-  grad:
+  gradphd:
+      output: true
+  gradmasters:
       output: true
   gradpast:
       output: true
