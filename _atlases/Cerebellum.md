@@ -22,5 +22,7 @@ Citation:
 ----
 
 ## Download
-
-- [Cerebellum_atlases.zip](http://goo.gl/forms/LWjc4Ko2tN) (2.7G) - MINC format Last updated: May 27th, 2014
+  - [Cerebellum Labels](https://github.com/cobralab/atlases) 
+  - [High-resolution T1-weighted MRI brains](http://cobralab.net/files/brains_t1.tar.bz2)
+  - [High-resolution T2-weighted MRI brains](http://cobralab.net/files/brains_t2.tar.bz2)
+  
