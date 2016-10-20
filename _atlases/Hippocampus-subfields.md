@@ -26,5 +26,6 @@ Citation:
 
 Note: Corrections made to NIfTI label files and README on 22 March, 2013. For more information contact winterburn.julie@gmail.com.
 
- - [WinterburnHippocampalAtlas_MINC.zip](http://goo.gl/forms/LgV9jDJbJg) (4.3GB) - Updated 20 July, 2015
- - [WinterburnHippocampalAtlas_NIfTI.zip](http://goo.gl/forms/LgV9jDJbJg) (4.1GB) - Updated 20 July, 2015
+  - [Hippocampus Labels](https://github.com/cobralab/atlases) 
+  - [High-resolution T1-weighted MRI brains](http://cobralab.net/files/brains_t1.tar.bz2)
+  - [High-resolution T2-weighted MRI brains](http://cobralab.net/files/brains_t2.tar.bz2)
