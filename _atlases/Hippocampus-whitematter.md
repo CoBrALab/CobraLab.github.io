@@ -23,6 +23,6 @@ Amaral, R. S. C., Park, M. T. M., Devenyi, G. A., Lynn, V., Pipitone, J., Winter
 ________________________________________
 
 Download
-  - [Fornix, fimbria, alveus + hippocampal subfield labels](https://github.com/cobralab/atlases)
+  - [Fornix, fimbria, alveus + hippocampal subfield labels](https://github.com/cobralab/atlases) 
   - [High-resolution T1-weighted MRI brains](http://cobralab.net/files/brains_t1.tar.bz2)
   - [High-resolution T2-weighted MRI brains](http://cobralab.net/files/brains_t2.tar.bz2)
