@@ -11,6 +11,7 @@ native space, un-resampled lsq6 (rigid) MNI space, and lsq12 MNI space.
 
 These outputs are suitable for further processing by a variety of pipelines such as CIVET, MAGeTbrain or antsMultivariateTemplate builder, or Freesurfer.
 
+minc-bpipe-library can be downloaded from: https://github.com/CobraLab/minc-bpipe-library
 
 >[1] Avants, B. B., Epstein, C. L., Grossman, M., & Gee, J. C. (2008). Symmetric diffeomorphic image registration with cross-correlation: Evaluating automated labeling of elderly and neurodegenerative brain. Medical Image Analysis, 12(1), 26–41. http://doi.org/10.1016/j.media.2007.06.004
 >[2] Vincent, R. D., Neelin, P., Khalili-Mahani, N., Janke, A. L., Fonov, V. S., Robbins, S. M., … Evans, A. C. (2016). MINC 2.0: A Flexible Format for Multi-Modal Images. Frontiers in Neuroinformatics, 10(August), 1–8. http://doi.org/10.3389/fninf.2016.00035
