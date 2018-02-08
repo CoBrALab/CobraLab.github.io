@@ -13,5 +13,5 @@ For more information about the mental health services mentioned by Dr. Chakravar
 the following: [PEPP](http://www.douglas.qc.ca/page/pepp-program), [ACCESS](http://www.accessopenminds.ca/), as well as other services available at the [Douglas Mental Health University Institute](http://www.douglas.qc.ca/?locale=en).
 
 <div markdown = "0">
-<iframe src="https://webapps.9c9media.com/vidi-player/1.4.0/share/iframe.html?currentId=1315148&config=ctvnews/share.json&kruxId=ImoeZsch&cid=%5B%7B%22contentId%22%3A1315148%2C%22ad%22%3A%7B%22adsite%22%3A%22ctv.ctvnews%22%2C%22adzone%22%3A%22embed%22%7D%7D%5D" width="560" height="315"frameborder="0" allowfullscreen></iframe>
+<iframe src="https://webapps.9c9media.com/vidi-player/1.4.0/share/iframe.html?currentId=1315148&config=ctvnews/share.json&kruxId=ImoeZsch&cid=%5B%7B%22contentId%22%3A1315148%2C%22ad%22%3A%7B%22adsite%22%3A%22ctv.ctvnews%22%2C%22adzone%22%3A%22embed%22%7D%7D%5D" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 </div>
