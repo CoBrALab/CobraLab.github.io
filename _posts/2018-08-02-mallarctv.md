@@ -12,4 +12,4 @@ Check out the video below where Dr. Mallar Chakravarty explains artificial intel
 </div>
 
 
-For more information about this research, click the link to read our paper [Bhagwat et al. (2018)]()
+For more information about this research, click the link to read our paper [Bhagwat et al. (2018)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006376)
