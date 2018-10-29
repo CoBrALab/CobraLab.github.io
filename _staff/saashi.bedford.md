@@ -1,5 +1,5 @@
 ---
-title: Saashi Bedford			 
+title: Saashi Bedford, M.Sc.
 layout: pagenonav
 ---
 ![Saashi Bedford]({{ site.baseurl }}/images/saashi.bedford.jpg)
