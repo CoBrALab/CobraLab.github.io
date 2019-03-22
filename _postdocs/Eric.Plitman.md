@@ -2,7 +2,7 @@
 title: Eric Plitman, Ph.D.
 layout: pagenonav
 ---
-![Eric Plitman](/images/eric-plitman.png)
+![Eric Plitman]({{ site.baseurl }}/images/eric-plitman.png)
 
 Eric joined CoBrA Lab as a postdoctoral fellow in September 2018. He previously completed his undergraduate degree at the University of Western Ontario and his PhD within the Institute of Medical Science at the University of Toronto. His graduate work focused on using proton magnetic resonance spectroscopy to study the glutamatergic system in antipsychotic-naive patients experiencing their first episode of psychosis and in patients with schizophrenia who had undergone long-term antipsychotic treatment.
 

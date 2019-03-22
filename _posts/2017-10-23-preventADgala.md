@@ -3,7 +3,7 @@ layout: post
 title: CoBrA Lab at the SToP-AD annual gala! 
 ---
 
-![groupphoto](/images/preventAD-gala.png)
+![groupphoto]({{ site.baseurl }}/images/preventAD-gala.png)
 
 The CoBrA lab attended this year's Centre for Studies on Prevention of Alzheimer's Disease (StoP-AD Centre) annual gala. The StoP-AD Centre is a joint collaboration between McGill University and the Douglas Institute which is dedicated to the prevention of AD. Specifically, the PREVENT-Alzheimer program studies Alzheimer’s disease in its pre-symptomatic stages in the hopes of finding strategies that can slow or reverse brain changes that may occur in older people who do not suffer from dementia but have a parental history of Alzheimer’s disease. 
  

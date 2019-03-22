@@ -7,7 +7,7 @@ The current implementation of the MAGeT-Brain pipeline allows for subject-based 
 
 
 
-![5Atlas Figure](/images/5atlas.jpg)
+![5Atlas Figure]({{ site.baseurl }}/images/5atlas.jpg)
 
 
 
@@ -16,7 +16,7 @@ Here, we reproduced the segmentation of the striatum, globus pallidus and thalam
 
 
 
-![5Atlas Surfaces Figure](/images/5atlas-surfaces.jpg)
+![5Atlas Surfaces Figure]({{ site.baseurl }}/images/5atlas-surfaces.jpg)
 
 
 

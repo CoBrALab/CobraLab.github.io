@@ -12,4 +12,4 @@ Before joining the Cobra Lab, I completed my BASc in Engineering Science at the 
 
 Outside of the lab, I enjoy running, shooting some hoops and eating delicious food. 
 
-![Raihaan's pic](/images/raihaan.jpg)
+![Raihaan's pic]({{ site.baseurl }}/images/raihaan.jpg)

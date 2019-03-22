@@ -2,7 +2,7 @@
 title: 3T In Vivo High-Resolution Atlas of the Hippocampal White Matter
 layout: default
 ---
-![Amaral Atlas Figure](/images/amaral_atlas_figure.png "Amaral Atlas Figure")
+![Amaral Atlas Figure]({{ site.baseurl }}/images/amaral_atlas_figure.png "Amaral Atlas Figure")
 
 Recently, much attention has been focused on the definition and structure of the hippocampus and its subfields.  While important, the projections from the hippocampus have been relatively understudied.  Throughout the majority of its anterior to posterior extent, the hippocampus is enveloped on its superior surface by white matter emanating from within the hippocampus.  These afferent myelinated fibers of the alveus and fimbria coat the hippocampus and contour its trajectory through the Medial Temporal Lobe.  Near the tail of the hippocampus, the alveus and fimbria coalesce and curve superiorly and anteriorly to form the fornix.  Projections then reach the anterior nuclei of the thalamus via the mammillary bodies prior to their ascent into higher cortical regions.  It is the extra-hippocampal white matter regions of the alveus, fimbria, and fornix that have received significantly less attention in the literature.
 

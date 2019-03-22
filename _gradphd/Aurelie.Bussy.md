@@ -2,7 +2,7 @@
 title: Aurélie Bussy
 layout: pagenonav
 ---
-![Aurélie Bussy](/images/Aurelie.Bussy.png)
+![Aurélie Bussy]({{ site.baseurl }}/images/Aurelie.Bussy.png)
 
 Aurélie joined the CobraLab in January 2019 in order to do her PhD in neuroscience. 
 She is a French student with a Neuroscience Master's Degree and a Master's Degree in Medical Bio-Imaging. 

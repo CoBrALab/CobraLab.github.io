@@ -2,4 +2,4 @@
 layout: post
 title: Happy Halloween from the CoBrA Lab!
 ---
-![groupphoto](/images/halloween_2016.jpg)
+![groupphoto]({{ site.baseurl }}/images/halloween_2016.jpg)
