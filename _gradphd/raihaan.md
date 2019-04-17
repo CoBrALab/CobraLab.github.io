@@ -2,14 +2,10 @@
 title: Raihaan Patel
 layout: pagenonav
 ---
-
-Hello, my name is Raihaan Patel.
-
-I joined the Cobra Lab during the summer of 2014 as a Research Assistant.  As part of the Cobra Lab, I use computational techniques to investigate anatomical features and changes within the brain.  My work centers around automatic segmentation using the MAGeT Brain technique.
-
-Before joining the Cobra Lab, I completed my BASc in Engineering Science at the University of Toronto.  In the near future, I plan to begin a Master's degree at McGill University in Biomedical Engineering.  During this time, I will further investigate the effectiveness of computational techniques, and use them to track the effects of anatomical changes in the brain.
-
-
-Outside of the lab, I enjoy running, shooting some hoops and eating delicious food. 
-
 ![Raihaan's pic]({{ site.baseurl }}/images/raihaan.jpg)
+
+Raihaan joined the Cobra Lab in 2014 as a Research Assistant after completing his BASc in Engineering Science at the University of Toronto.  As a Research Assistant, he spent time developing computational techniques to investigate anatomical features, such as volume and shape, of the brain.  He began a Master's degree in the Department of Biological and Biomedical Engineering in 2015, and transferred to the PhD program in 2017.  Raihaan is interested in learning about why individuals age differently, with some experiencing the effects of aging earlier than others.  His PhD thesis is focused on how the hippocampus, a structure located in the medial temporal lobe of the brain, changes throughout the course of healthy aging.  He aims to integrate measures of hippocampal structure, microstructure and function (assessed using structural, diffusion and functional MRI) in order to track variability in aging.  In the future, Raihaan is interested in investigating how genetics, diet, and exercise interact to impact the aging brain.
+
+Outside of the lab, Raihaan enjoys running, shooting hoops, and consuming carbs. 
+
+
