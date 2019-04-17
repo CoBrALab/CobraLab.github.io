@@ -4,13 +4,8 @@ layout: pagenonav
 ---
 ![Aurélie Bussy]({{ site.baseurl }}/images/Aurelie.Bussy.png)
 
-Aurélie joined the CobraLab in January 2019 in order to do her PhD in neuroscience. 
-She is a French student with a Neuroscience Master's Degree and a Master's Degree in Medical Bio-Imaging. 
+Aurélie joined the CobraLab in January 2019 in order to do her PhD. She previously completed two Master’s degrees, one in Neuroscience and one in Medical Bio-Imaging at the University of Bordeaux in France.
 
-During the first year of her Neuroscience Master’s Degree, she completed an internship at the University of Oxford (UK). Her study was focused on Parkinson’s Disease and with the goal of designing early diagnostic strategies via saccadic eye movements measured by a saccadometer. 
+Her main interest is to evaluate and identify volumetric and microstructural modifications in the hippocampal subfields during healthy aging and Alzheimer's disease progression with MRI techniques. Her goal is to contribute towards improving our understanding of hippocampal alterations and the detection of early biomarkers in Alzheimer's disease.
 
-Following this experience, she completed a five-month internship at the Knight Alzheimer’s Disease Research Center at the Washington University in Saint Louis (US) with Pr. JC Morris. She was studying Autosomal-Dominant Alzheimer’s Disease patients and the impact of the APOE genotype on this population.
-
-During her second Masters degree in Medical Bio-Imaging, she did an internship related to in vivo positron emission tomography imaging of cerebellar cholinergic innervation using 18F-FEOBV in Bordeaux, France.
-
-In her free time, Aurélie likes to travel and explore new countries, play cello in orchestra and hike.
+In her free time, Aurélie likes to travel and explore new countries, play cello in orchestra, and hike.
