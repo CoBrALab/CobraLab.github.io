@@ -4,6 +4,8 @@ layout: pagenonav
 ---
 ![Gabriel Desrosiers-Grégoire]({{ site.baseurl }}/images/Gabriel-Desrosiers-Grégoire.png)
 
-I am an undergraduate student in the program of neuroscience at McGill and I joined the CoBrA lab in September 2017 to pursue my last year research project under the supervision of Dr. Chakravarty.
-A strong immune response during pregnancy is recognized as a substantial risk factor for the child to develop mental illness later in life. My research project aims at studying the impact of maternal immune activation during gestation on the neuroanatomy of the embryonic brain, and how it can lead to the development of major mental illness later in life. Establishing how early prenatal insults on the developing brain can give rise to mental illnesses will help identify key neurodevelopmental processes and brain functions relevant to these disorders, and eventually improve treatment approaches and outcomes.
-Outside of the lab, in terms of sports, I like running and hiking. I also highly enjoy coffee and music.
+Gabriel joined the CoBrA lab in 2017 as an undergraduate student in neuroscience. He pursued a one year undergraduate research project supervised by Elisa Guma where he studied the impact of maternal immune activation during gestation on the structural development of the embryonic brain.
+
+He pursued his studies in the lab in 2018 and is now a Master student, where his work focuses on the development of functional magnetic resonance imaging (fMRI) in mice to study the global organization of brain activity. In particular, he studies the impact of anesthetic regimens on brain activity and the neurovascular coupling of the fMRI signal, how we can measure functional coupling between brain regions, and how brain dynamics can be related to underlying biological structures, such as gene expression structure and white matter connectivity.
+
+Outside of lab work, Gabriel is an avid runner and coffee drinker. He also enjoys stimulating discussions, movies and music.
