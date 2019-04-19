@@ -4,4 +4,6 @@ layout: pagenonav
 ---
 ![Mila Urosevic]({{ site.baseurl }}/images/Mila_Urosevic.png)
 
-I am an undergraduate student entering my third year in the Physiology and Physics program at McGill. I joined the CoBrA lab in summer 2018 to help Chloe Anastassiadis with her project about rescuing the effects of obesity on Alzheimer's through diet and exercise. I will be performing histological analyses on mouse brains to quantify the spread of amyloid-beta and tau.
+Mila is an undergraduate student in Physiology and Physics at McGill University. She started working at the lab in May 2018 under the supervision of Chloe Anastassiadis, as part of a project on rescuing the effects of obesity on Alzheimer’s through exercise and diet. As part of this project, she performed an analysis of mouse Morris Water Maze behavioral data using Principal Components Analysis. 
+
+When she is not weighing mice, she can be found playing clarinet or reading.
