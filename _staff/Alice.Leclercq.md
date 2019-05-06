@@ -2,7 +2,7 @@
 title: Alice Leclercq
 layout: pagenonav
 ---
-![Alice Leclercq]({{ site.baseurl }}/images/Alice.png)
+![Alice Leclercq, BSc.]({{ site.baseurl }}/images/Alice.png)
 
 Alice (pronounced A-lees) joined the lab as a research assistant in March 2019. She is currently working on a collaborative project with the <a href="http://www.douglas.qc.ca/section/pepp-montreal-165?locale=en" target="_blank">PEPP </a> clinic at the Douglas, looking at the risk factors for psychosis by comparing cognitive, behavioral, and MRI data from patients with first episode psychosis, siblings of patients with first episode psychosis, patients at high risk for psychosis, and healthy controls. 
 
