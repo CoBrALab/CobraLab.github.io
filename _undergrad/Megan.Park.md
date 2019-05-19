@@ -1,4 +1,3 @@
-
 ---
 title: Megan Park
 layout: pagenonav
