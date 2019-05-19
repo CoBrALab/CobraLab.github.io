@@ -3,7 +3,6 @@
 title: Megan Park
 layout: pagenonav
 ---
-
 ![Megan Park]({{ site.baseurl }}/images/Megan.jpeg)
 
 Megan is currently an undergraduate student at McGill University studying biomedical sciences. With an interest in neuroscience, she joined the CoBrA Lab in May 2019 as an undergraduate research assistant.
