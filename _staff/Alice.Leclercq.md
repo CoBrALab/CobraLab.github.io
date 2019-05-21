@@ -1,5 +1,5 @@
 ---
-title: Alice Leclercq
+title: Alice Leclercq, B.Sc.
 layout: pagenonav
 ---
 ![Alice Leclercq, BSc.]({{ site.baseurl }}/images/Alice.png)
