@@ -2,7 +2,7 @@
 title: Gabriel Desrosiers-Grégoire
 layout: pagenonav
 ---
-![Gabriel Desrosiers-Grégoire]({{ site.baseurl }}/images/Gabriel-Desrosiers-Grégoire.png)
+![Gabriel Desrosiers-Grégoire]({{ site.baseurl }}/images/Gabriel_D-G.png)
 
 Gabriel joined the CoBrA lab in 2017 as an undergraduate student in neuroscience. He pursued a one year undergraduate research project supervised by Elisa Guma where he studied the impact of maternal immune activation during gestation on the structural development of the embryonic brain.
 
