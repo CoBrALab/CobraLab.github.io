@@ -4,15 +4,9 @@ layout: pagenonav
 ---
 ![Vanessa Valiquette, BSc]({{ site.baseurl }}/images/Vanessa_Valiquette.jpg)
 
-Ferdousa joined the CoBrA Lab as a research assistant in March 2019 after completing her
-MSc in Public Health with a specialization in Epidemiology at the University of
-Montreal. 
+Vanessa joined the lab as a research assistant in February 2019. She completed a BSc in Psychology at UQAM. She had the chance to work on an honors thesis regarding the efficiency of different types of psychotherapy for people with co-occurence of Generalized anxiety disorder and Panic disorder. She is now completing a second BSc in Cognitive Neuroscience at UdeM and planning to transfer to the IPN program at McGill in January 2020. 
 
-She is currently involved in a study aiming to improve understanding of risk
-for developing psychosis using brain imaging, cognition, and genetics, in collaboration
-with the Prevention and Early Intervention Program for Psychosis (PEPP) at the Douglas
-Institute. 
+She is mainly helping out with the coordination of the lab’s day-to-day activities and lending a hand to ongoing projects.
 
-Outside the lab, she enjoys jogging, being in nature and cooking a good meal
-and sharing it.
+In her free time, she likes to play outside and swim and her favourite stroke is the cannonball.  
 
