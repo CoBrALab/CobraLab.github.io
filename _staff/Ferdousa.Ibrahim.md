@@ -2,7 +2,7 @@
 title: Ferdusa Ibrahim, M.Sc.
 layout: pagenonav
 ---
-![Ferdusa Ibrahim, MSc]({{ site.baseurl }}/images/Ferdousa.jpg)
+![Ferdousa Ibrahim, MSc]({{ site.baseurl }}/images/Ferdousa.jpg)
 
 Ferdousa joined the CoBrA Lab as a research assistant in March 2019 after completing her
 MSc in Public Health with a specialization in Epidemiology at the University of
