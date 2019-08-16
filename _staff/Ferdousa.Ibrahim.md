@@ -1,5 +1,5 @@
 ---
-title: Ferdusa Ibrahim, M.Sc.
+title: Ferdousa Ibrahim, M.Sc.
 layout: pagenonav
 ---
 ![Ferdousa Ibrahim, MSc]({{ site.baseurl }}/images/Ferdousa.jpg)
