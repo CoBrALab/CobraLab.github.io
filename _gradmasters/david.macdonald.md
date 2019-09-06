@@ -14,4 +14,4 @@ David holds a Bachelor of Science in Neuroscience and Mental Health from Carleto
 in German Studies from Dalhousie University / The University of King's College. At Carleton, he studied the effects 
 of chronic stress on hypothalamic energy homeostasis circuits. 
 
-In his spare time, Dave enjoys being in a canoe, growing food, making things out of wood, and reading good books.
+In his spare time, David enjoys being in a canoe, growing food, making things out of wood, and reading good books.
