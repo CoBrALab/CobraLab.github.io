@@ -1,8 +1,8 @@
 ---
-title: Manuela Constantino
+title: Manuela Costantino
 layout: pagenonav
 ---
-![Manuela Constantino]({{ site.baseurl }}/images/Manuela.Constantino.jpg)
+![Manuela Costantino]({{ site.baseurl }}/images/Manuela.Costantino.jpg)
 
 Manuela is an undergraduate student at McGill University, majoring Neuroscience and minoring in 
 Computer Science. She joined the lab in July 2020 under the supervision of Gabriel Devenyi for 
