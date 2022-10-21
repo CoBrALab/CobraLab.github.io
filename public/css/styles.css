@@ -1,0 +1,64 @@
+.sidebar-heading {
+  margin-top: 0px;
+}
+
+.hippocampus {
+  float: right;
+  max-width: 275px;
+}
+
+.sidebar {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+}
+
+.sidebar-toggle {
+  background-color: white;
+  border: none;
+  border-radius: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 2rem;
+  width: 2rem;
+  left: 1rem;
+  top: 0.5rem;
+  position: fixed;
+}
+
+.sidebar-toggle > div {
+  background-color: black;
+  height: 5px;
+  width: 100%;
+}
+
+@media only screen and (max-width: 992px) {
+  .hippocampus {
+      width: 100%;
+      max-width: 100%;
+    }
+}
+
+/* Mobile Users */
+@media only screen and (max-width: 768px) {
+  .sidebar {
+    overflow: hidden;
+    padding: 0px;
+    height: 100vh;
+    max-width: 0px;
+  }
+
+  .sidebar.expanded {
+    max-width: 300px;
+  }
+
+  .sidebar-toggle.active {
+    transform: translateX(300px);
+  }
+  
+  .widecontainer {
+    margin: 0px;
+  }
+}
+
